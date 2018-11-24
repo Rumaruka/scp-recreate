@@ -1,0 +1,16 @@
+{
+
+  "parent": "item/generated",
+  "I": {
+    "model":"keycard_i"
+  },
+  "II": {
+    "model":"keycard_ii"
+  },
+  "III": {
+    "model":"keycard_iii"
+  },
+  "omni": {
+    "model":"keycard_omni"
+  }
+}

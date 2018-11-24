@@ -1,0 +1,16 @@
+{
+
+  "parent": "item/generated",
+  "safe": {
+    "model":"document_safe"
+  },
+  "euclid": {
+    "model":"document_euclid"
+  },
+  "keter": {
+    "model":"document_keter"
+  },
+  "thaumiel": {
+    "model":"document_thaumiel"
+  }
+}
